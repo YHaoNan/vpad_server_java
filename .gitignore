@@ -1,0 +1,10 @@
+# 文件夹
+.idea/
+src/test/
+target/
+
+# 文件
+*.class
+*.jar
+*.war
+*.ear
